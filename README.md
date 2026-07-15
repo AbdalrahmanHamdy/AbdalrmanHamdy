@@ -93,8 +93,7 @@ Digital Logic
 ## GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanHamdy&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanHamdy&layout=compact&theme=tokyonight"/>
+<img height="280em" src="https://avatars.githubusercontent.com/u/201349850?s=400&u=15b0331c7e9cdfb8166e2a8ade9afff36b1ff87e&v=4"/>
 </p>
 
 ---
