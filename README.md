@@ -33,6 +33,7 @@ module abdalrahman_hamdy();
         "Verilog HDL",
         "SystemVerilog",
         "Functional Verification"
+        "FPGA Design"
     };
 
 endmodule
